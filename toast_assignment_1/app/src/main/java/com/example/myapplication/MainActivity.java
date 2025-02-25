@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
               count += 1;
               countT.setText(""+count);
-                Toast toast = Toast.makeText(MainActivity.this, "Hello Toast!: " + count, Toast.LENGTH_SHORT);
+                Toast toast = Toast.makeText(MainActivity.this, "Hello Toast!" ,Toast.LENGTH_SHORT);
                 toast.setGravity(Gravity.BOTTOM | Gravity.CENTER_HORIZONTAL, 0, 100); // Increase yOffset value to move toast higher
                 toast.show();
             }
