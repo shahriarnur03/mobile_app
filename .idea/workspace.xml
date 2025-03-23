@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36790fb2-b7cc-4685-82cb-b7759291f145" name="Changes" comment="" />
+    <list default="true" id="083120af-8d11-4852-96cf-80deb27a4502" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/app/src/main/java/com/example/todo/TaskAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/To-Do/app/src/main/res/layout/item_task.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mobile_app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +36,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2tXhQFLg0ok8M6iT8nJ3yf3Wde5" />
+  <component name="ProjectId" id="2uimw7RPimVBAdV4DTZ4ZeTnGXW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,21 +49,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/md.shahriarnur/mobile_app"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="36790fb2-b7cc-4685-82cb-b7759291f145" name="Changes" comment="" />
-      <created>1740504308180</created>
+      <changelist id="083120af-8d11-4852-96cf-80deb27a4502" name="Changes" comment="" />
+      <created>1742740005000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740504308180</updated>
+      <updated>1742740005000</updated>
     </task>
     <servers />
   </component>
