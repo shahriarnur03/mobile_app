@@ -27,8 +27,9 @@
             android:layout_width="0dp"
             android:layout_height="48dp"
             android:layout_weight="1"
-            android:hint="@string/searchHint"
-            android:background="@android:color/transparent"
+            android:background="@drawable/search_view_background"
+            android:hint="Search city here"
+            android:textColorHint="#615D5D"
             android:padding="10dp"
             android:textColor="@color/black"
             android:textSize="16sp"
@@ -89,14 +90,14 @@
                 android:textStyle="bold"
                 android:textSize="20sp" />
 
-<!--            <TextView-->
-<!--                android:id="@+id/timeTV"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="Mon June 17 | 10:00 AM"-->
-<!--                android:gravity="center"-->
-<!--                android:textColor="@color/white"-->
-<!--                android:textSize="16sp" />-->
+            <!--            <TextView-->
+            <!--                android:id="@+id/timeTV"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:text="Mon June 17 | 10:00 AM"-->
+            <!--                android:gravity="center"-->
+            <!--                android:textColor="@color/white"-->
+            <!--                android:textSize="16sp" />-->
 
             <TextView
                 android:id="@+id/tempTV"
@@ -125,7 +126,7 @@
                     <ImageView
                         android:layout_width="35dp"
                         android:layout_height="35dp"
-                        android:src="@drawable/rain" />
+                        android:src="@drawable/air_pressure" />
 
                     <TextView
                         android:id="@+id/pressureTV"
