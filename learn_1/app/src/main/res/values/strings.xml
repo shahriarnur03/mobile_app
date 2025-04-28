@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">learn_1</string>
+    <string name="todo">TODO</string>
+    <string name="newtask">Add new task...</string>
+    <string name="count">Counting</string>
+    <string name="weather">Weather</string>
+</resources>
